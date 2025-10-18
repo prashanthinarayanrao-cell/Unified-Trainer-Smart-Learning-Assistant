@@ -10,6 +10,9 @@
 **LinkedIn:** https://www.linkedin.com/in/prashanthi-narayan-rao-343a3135b 
 
 **GitHub Repository:** [https://github.com/prashanthinarayanrao-cell]  
+
+**GPT Link:**https://chatgpt.com/g/g-68f39ebcdd1c819184fabf7701d8f015-unified-trainer
+
 **Year:** 2025  
 
 </div>
