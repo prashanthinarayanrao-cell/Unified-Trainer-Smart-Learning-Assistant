@@ -153,12 +153,8 @@ Frameworks used include:
 <td style="padding:10px;">https://www.linkedin.com/in/prashanthi-narayan-rao-343a3135b</td>
 </tr>
 <tr style="background-color:#F4F7FB;">
-<td style="padding:10px;">https://github.com/prashanthinarayanrao-cell</td>
+<td style="padding:10px;">Task link</td>
 <td style="padding:10px;">(https://chatgpt.com/g/g-68f39ebcdd1c819184fabf7701d8f015-unified-trainer)</td>
-</tr>
-<tr>
-<td style="padding:10px;">Portfolio / Website</td>
-<td style="padding:10px;">[To be added]</td>
 </tr>
 </table>
 
