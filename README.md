@@ -7,7 +7,7 @@
 
 **Created by:** Prashanthi  
 **Title/Role:** Senior Instructional Designer | Process Trainer | QA & Process Improvement Specialist | Gen AI & L&D Integration | Articulate 360 Storyline | Adaptive Learning & Prompt Engineering  
-**LinkedIn:** [https://www.linkedin.com/in/prashanthi-narayan-rao-343a3135b/](https://www.linkedin.com/in/prashanthi-narayan-rao-343a3135b/)  
+**LinkedIn:** https://www.linkedin.com/in/prashanthi-narayan-rao-343a3135b/?originalSubdomain=in 
 **GitHub Repository:** [https://github.com/prashanthinarayanrao-cell]  
 **Year:** 2025  
 
