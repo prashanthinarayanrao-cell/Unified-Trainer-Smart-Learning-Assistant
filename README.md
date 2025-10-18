@@ -149,7 +149,7 @@ Frameworks used include:
 </tr>
 <tr>
 <td style="padding:10px;">LinkedIn</td>
-<td style="padding:10px;">https://www.linkedin.com/in/prashanthi-narayan-rao-343a3135b/?originalSubdomain=in</td>
+<td style="padding:10px;">https://www.linkedin.com/in/prashanthi-narayan-rao-343a3135b</td>
 </tr>
 <tr style="background-color:#F4F7FB;">
 <td style="padding:10px;">https://github.com/prashanthinarayanrao-cell</td>
