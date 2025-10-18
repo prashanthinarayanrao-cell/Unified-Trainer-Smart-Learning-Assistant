@@ -154,7 +154,7 @@ Frameworks used include:
 </tr>
 <tr style="background-color:#F4F7FB;">
 <td style="padding:10px;">Task link</td>
-<td style="padding:10px;">(https://chatgpt.com/g/g-68f39ebcdd1c819184fabf7701d8f015-unified-trainer)</td>
+<td style="padding:10px;">https://chatgpt.com/g/g-68f39ebcdd1c819184fabf7701d8f015-unified-trainer</td>
 </tr>
 </table>
 
